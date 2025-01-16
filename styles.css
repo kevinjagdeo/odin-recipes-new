@@ -1,0 +1,15 @@
+/* stylesheet for recipes website */
+
+* {
+    font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', sans-serif;
+}
+
+#title {
+    color: black;
+    background-color: rgb(92, 189, 158);
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
