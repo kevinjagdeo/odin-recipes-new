@@ -12,4 +12,16 @@
 
 p {
     font-size: 18px;
+    margin-left: 50px;
+}
+
+.recipe1,
+.recipe2 {
+    display: inline-block;
+    padding: 10px;
+    width: auto;
+    margin-right: 20px;
+
+
+
 }
